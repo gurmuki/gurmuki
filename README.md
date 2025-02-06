@@ -16,6 +16,7 @@
 ## Skills
 
 Languages:
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -32,7 +33,7 @@ Tools:
 ![YACC](https://img.shields.io/badge/YACC-136D15)
 ![LEX](https://img.shields.io/badge/LEX-8A2BE2)
 
-Graphics/GPU:
+Graphics:
 ![OpenGL](https://img.shields.io/badge/OpenGL-98423C)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmuki&show_icons=true&locale=en&layout=compact" alt="gurmuki" /></p>
