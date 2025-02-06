@@ -1,17 +1,26 @@
 <h1 align="center">Patrick Engel</h1>
 <h3 align="center">A retired software developer</h3>
 
+<h3 align="left">About me</h3>
+Most of my career was devoted to developing CAD/CAD software.
+<p></p>
+CAD/CAM being a niche market, the specific domain knowledge wasn't terribly useful in other domains but the underlying fundamentals and skills were. My career did provide the opportunity to work in a broad array of disciplines (eg. machining algorithms, geometry solvers, post processing, data translation, database, graphics, ui, compiler construction and virtual machine design). For that I am grateful and I can honestly say I enjoyed my career and my colleagues.
+<p></p>
+Things were particularly fun in the 80's and 90's when companies were small and nimble. My most enjoyable experience was at a company having only two rules 1) stop the stupid stuff and 2) if you don't know how, ask. In the 2000's, the acquisitions began, companies consolidated, engineers were pigeon holed, beauracracy festered and things became vastly less fun.
+<p></p>
+I still enjoy developing software but now, only for myself ... and nothing terribly useful.
+<p></p>
+Otherwise, I spend my time bicycling and doing photography which I post on Instagram <a href="https://instagram.com/gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurmuki1957" height="30" width="40" /></a>
+<p></p>
+I also have a YouTube channel showing some of the Fractal Movies I've created using my latest software project <a href="https://www.youtube.com/results?search_query=%40gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gurmuki" height="30" width="40" /></a>
+<p></p>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmuki&label=Profile%20views&color=0e75b6&style=flat" alt="gurmuki" /> </p> -->
 
-- I’m currently working on **FractalFactory**
+- I’m currently working on my **FractalFactory** project
 - I’m looking to collaborate on **Anything that interests me**
 - Contact me at **gurmuki1957@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurmuki1957" height="30" width="40" /></a>
-<a href="https://www.youtube.com/results?search_query=%40gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gurmuki" height="30" width="40" /></a>
-</p>
+<p></p>
 
 <h3 align="left">Tech Stack</h3>
 
