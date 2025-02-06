@@ -10,7 +10,7 @@ Things were particularly fun in the 80's and 90's when companies were small and 
 <p></p>
 I still enjoy developing software but now, only for myself ... and nothing terribly useful.
 <p></p>
-Otherwise, I spend my time bicycling and doing photography which I post on Instagram <a href="https://instagram.com/gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurmuki1957" height="30" width="40" /></a>
+Otherwise, I spend my time bicycling and doing (mostly nature) photography which I post on Instagram <a href="https://instagram.com/gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurmuki1957" height="30" width="40" /></a>
 <p></p>
 I also have a YouTube channel showing some of the Fractal Movies I've created using my latest software project <a href="https://www.youtube.com/results?search_query=%40gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gurmuki" height="30" width="40" /></a>
 <p></p>
