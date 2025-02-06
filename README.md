@@ -13,9 +13,8 @@
 <a href="https://www.youtube.com/results?search_query=%40gurmuki1957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gurmuki" height="30" width="40" /></a>
 </p>
 
-## Skills
+<h3 align="left">Tech Stack</h3>
 
-Languages:
 ![Bash](https://img.shields.io/badge/Bash-d3e6f7)
 ![C++](https://img.shields.io/badge/C++-136d15)
 ![C#](https://img.shields.io/badge/C%23-8a2be2)
@@ -25,14 +24,12 @@ Languages:
 ![SQLite](https://img.shields.io/badge/SQLite-8a2be2)
 ![MySQL](https://img.shields.io/badge/MySQL-d3e6f7)
 
-Tools:
 ![Git](https://img.shields.io/badge/Git-3d85c6)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-136d15)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-8a2be2)
 ![YACC](https://img.shields.io/badge/YACC-c4f266)
 ![LEX](https://img.shields.io/badge/LEX-f4ec7f)
 
-Graphics:
 ![Affinty](https://img.shields.io/badge/Affinity%20Photo-3d85c6)
 ![FfMpeg](https://img.shields.io/badge/ffmpeg-d3e6f7)
 ![OpenGL](https://img.shields.io/badge/OpenGL-8a2be2)
