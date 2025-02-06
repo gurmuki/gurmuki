@@ -20,6 +20,7 @@ Languages:
 ![C++](https://img.shields.io/badge/C++-136d15)
 ![C#](https://img.shields.io/badge/C%23-8a2be2)
 ![Java](https://img.shields.io/badge/Java-3d85c6)
+![JSON](https://img.shields.io/badge/JSON-3d85c6)
 ![Python](https://img.shields.io/badge/Python-d3e6f7)
 ![SQLite](https://img.shields.io/badge/SQLite-8a2be2)
 ![MySQL](https://img.shields.io/badge/MySQL-d3e6f7)
@@ -32,7 +33,9 @@ Tools:
 ![LEX](https://img.shields.io/badge/LEX-f4ec7f)
 
 Graphics:
-![OpenGL](https://img.shields.io/badge/OpenGL-98423C)
-![GDI](https://img.shields.io/badge/GDI-98423C)
+![Affinty](https://img.shields.io/badge/Affinity%20Photo-3d85c6)
+![FfMpeg](https://img.shields.io/badge/ffmpeg-d3e6f7)
+![OpenGL](https://img.shields.io/badge/OpenGL-8a2be2)
+![GDI](https://img.shields.io/badge/GDI-3d85c6)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmuki&show_icons=true&locale=en&layout=compact" alt="gurmuki" /></p>
+[//]: # (commented out -- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmuki&show_icons=true&locale=en&layout=compact" alt="gurmuki" /></p>)
