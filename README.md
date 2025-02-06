@@ -1,7 +1,7 @@
 <h1 align="center">Patrick Engel</h1>
 <h3 align="center">A retired software developer</h3>
 
-[//]: # (commented out -- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmuki&label=Profile%20views&color=0e75b6&style=flat" alt="gurmuki" /> </p>)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmuki&label=Profile%20views&color=0e75b6&style=flat" alt="gurmuki" /> </p> -->
 
 - I’m currently working on **FractalFactory**
 - I’m looking to collaborate on **Anything that interests me**
@@ -35,4 +35,4 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-8a2be2)
 ![GDI](https://img.shields.io/badge/GDI-3d85c6)
 
-[//]: # (commented out -- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmuki&show_icons=true&locale=en&layout=compact" alt="gurmuki" /></p>)
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmuki&show_icons=true&locale=en&layout=compact" alt="gurmuki" /></p> -->
