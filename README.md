@@ -16,14 +16,13 @@
 ## Skills
 
 Languages:
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-E32818)
+![C++](https://img.shields.io/badge/C++-6B0891)
+![C#](https://img.shields.io/badge/C#-0092CC)
+![Java](https://img.shields.io/badge/Java-136D15)
+![Python](https://img.shields.io/badge/Python-8A2BE2)
+![SQLite](https://img.shields.io/badge/SQLite-8A2BE2)
+![MySQL](https://img.shields.io/badge/MySQL-8A2BE2)
 
 Tools:
 ![Git](https://img.shields.io/badge/Git-E32818)
@@ -32,7 +31,7 @@ Tools:
 ![YACC](https://img.shields.io/badge/YACC-136D15)
 ![LEX](https://img.shields.io/badge/LEX-8A2BE2)
 
-Graphics/GPU:
+Graphics:
 ![OpenGL](https://img.shields.io/badge/OpenGL-98423C)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmuki&show_icons=true&locale=en&layout=compact" alt="gurmuki" /></p>
